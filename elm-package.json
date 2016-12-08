@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Perform runtime reflection on Elm types",
+    "repository": "https://github.com/ccapndave/elm-reflect.git",
+    "license": "BSD3",
+    "source-directories": [
+        "./src"
+    ],
+    "exposed-modules": [
+        "Reflect"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
